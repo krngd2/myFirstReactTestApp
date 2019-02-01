@@ -1,0 +1,14 @@
+ 
+// export default PageOne =()=> { 
+//   return (  <p>PageOne</p>  ) 
+// }
+
+import React from 'react'
+
+export default function PageOne() {
+  return (
+    <div>
+      <h1>PageOne</h1>
+    </div>
+  )
+}
